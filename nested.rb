@@ -84,11 +84,10 @@ def adding_matz
 		 programmer_hash
 
 		 {
-		 [:yukihiro_matsumoto][:known_for] = "Ruby",
+		 [:yukihiro_matsumoto][:known_for] = "Ruby"
 		 [:yukihiro_matsumoto][:languages] = ["LISP", "C"]
 		  }
 
-}
 #ontacts["Jon Snow"][:address] = "The Lord Commander's Rooms, The Wall, Westeros"
 
 #my_hash[:third] = "i'm third!"
