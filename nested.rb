@@ -86,7 +86,7 @@ def adding_matz
 		 [:yukihiro_matsumoto][:known_for] = "Ruby",
 		 [:yukihiro_matsumoto][:languages] = ["LISP", "C"]
 		  }
-			
+
 
 #ontacts["Jon Snow"][:address] = "The Lord Commander's Rooms, The Wall, Westeros"
 
